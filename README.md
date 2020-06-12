@@ -1,3 +1,6 @@
+# SOME changes
+Text added to reflect some changes form local repository
+
 # What's new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
